@@ -1,16 +1,13 @@
-# This is a sample Python script.
+# Based of "Big Book of Small Python Projects" by Al Sweigert
+#
+# Project 01
+#
+# Description:
+# ------------
+# In Bagels, a deductive logic game, you must guess a secret three-digit number based on clues.
+# The game offers one of the following hints in response to your guess:
+# “Pico” when your guess has a correct digit in the wrong place,
+# “Fermi” when your guess has a correct digit in the correct place,
+# and “Bagels” if your guess has no correct digits.
+# You have 10 tries to guess the secret number.
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
