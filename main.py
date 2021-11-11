@@ -11,3 +11,8 @@
 # and “Bagels” if your guess has no correct digits.
 # You have 10 tries to guess the secret number.
 
+import random
+
+answer = random.randint(1, 100)
+
+print(answer)
